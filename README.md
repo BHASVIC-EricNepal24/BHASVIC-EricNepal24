@@ -1,9 +1,13 @@
 ## Hi there 👋
 
-<!--
+
 **BHASVIC-EricNepal24/BHASVIC-EricNepal24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+I'm Eric Nepal, an A Level Maths, Further Maths, Computer Science and Physics student studying at BHASVIC. My professional goals are to continue learning Mathematics at university and pick up Applied Mathematics for nuclear engineering idealy. I'm most interested in any sort of engineering since I think they are the most fascinating, but software development also interesting as it is more creative. I'm currently working on a project for my A Level, called Motimato, which would aim to be a Pomodoro Timer mixed with a Tamagotchi, which would be a mobile app written in Java. I'm also currently working on completing Hardvard's online CS50 course as I believe it would be useful to put on my Personal Statement, as well as it may aid my Computer Science skills overall. I'm a huge fan of communication, often heavily relying on Trello and Teams Chats whilst participating in group projects, as well as competant leadership skills which always puts their peers first before helping himself.
+
+https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-EricNepal24 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
