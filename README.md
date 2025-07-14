@@ -7,7 +7,12 @@ Here are some ideas to get you started:
 
 I'm Eric Nepal, an A Level Maths, Further Maths, Computer Science and Physics student studying at BHASVIC. My professional goals are to continue learning Mathematics at university and pick up Applied Mathematics for nuclear engineering idealy. I'm most interested in any sort of engineering since I think they are the most fascinating, but software development also interesting as it is more creative. I'm currently working on a project for my A Level, called Motimato, which would aim to be a Pomodoro Timer mixed with a Tamagotchi, which would be a mobile app written in Java. I'm also currently working on completing Hardvard's online CS50 course as I believe it would be useful to put on my Personal Statement, as well as it may aid my Computer Science skills overall. I'm a huge fan of communication, often heavily relying on Trello and Teams Chats whilst participating in group projects, as well as competant leadership skills which always puts their peers first before helping himself.
 
-https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-EricNepal24 
+https://github.com/BHASVIC-CompSci/animalopoly-BHASVIC-EricNepal24 - Animalopoly Project
+This is my work contributed towards a project called Animalopoly, which is a game similar to Monopoly but written in Java. My contributions are in the README file.
+
+https://github.com/BHASVIC-CompSci/EricNepal24-Jack-CheckOut - Hotel Kashyyyk contribution.
+This is my work contributed towards a project called Hotel Kashyyyk, which is a hotel system where the user can check in/check out, rent rooms and go to the restaurant and such. My contributions are in the README file.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
